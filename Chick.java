@@ -1,3 +1,10 @@
+/*
+Title: Chick Class
+Author: Ethan Brill
+Purpose: Implements the Animal interface for a chick with two constructors and a random sound generator.
+Resources: Class notes and AP Computer Science A Course and Exam Description (Unit 1: Using Objects and Methods, Topic 1.11 - Math Class and Unit 3: Class Creation, Topic 3.4 - Constructors)
+*/
+
 public class Chick implements Animal {
      private String oneType;
     private String oneSound;

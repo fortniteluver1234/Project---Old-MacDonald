@@ -1,4 +1,11 @@
-    public class Farm {
+/*
+Title: Farm Collection
+Author: Ethan Brill
+Purpose: Manages an array of Animal objects and calls polymorphic methods to print animal sounds and names.
+Resources: Class notes and AP Computer Science A Course and Exam Description (Unit 4: Data Collections, Topic 4.3 - Array Creation and Access and Topic 4.4 - Array Traversals)
+*/
+
+   public class Farm {
     private Animal[] a = new Animal[3];
 
     public Farm() {
